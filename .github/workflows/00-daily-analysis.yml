@@ -1,8 +1,4 @@
 name: 每日股票分析
-
-on:
-  workflow_dispatch:
-    inputs:
   # 手动触发
   workflow_dispatch:
     inputs:
